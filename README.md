@@ -19,3 +19,21 @@ This dataset focuses on assistance and expenses for families located within vari
 ## Analysis Potential
 
 This dataset enables various analyses of assistance and expenses across different sectors. It allows for comparisons between local authorities, districts, and years, facilitating an in-depth understanding of trends and patterns in social aid distribution and its financial implications.
+
+## Methodology
+
+### Supervised Machine Learning:
+In this project, we applied five supervised classification models to predict outcomes based on the dataset. The models used were:
+- Logistic Regression
+- Random Forest Classifier
+- Gradient Boosting Classifier
+- Support Vector Classifier (SVC)
+- K-Nearest Neighbors (KNN)
+## Model Comparison 
+- The models were compared using cross-validation to evaluate their performance. Additionally, a visual comparison was made through confusion matrices to assess how well the models classified the data.
+
+
+### Unsupervised Machine Learning:
+For unsupervised learning, we focused on clustering techniques to group data points based on similarity. The clustering methods used were:
+- K-means Clustering
+- Agglomerative Clustering
