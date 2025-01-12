@@ -1,4 +1,3 @@
-
 # Course Project: Advanced Topics in Machine Learning
 
 ## Dataset Description
@@ -47,6 +46,7 @@ In this project, we applied five supervised classification models to predict out
 - Gradient Boosting Classifier
 - Support Vector Classifier (SVC)
 - K-Nearest Neighbors (KNN)
+
 ### Model Comparison 
 - The models were compared using cross-validation to evaluate their performance. Additionally, a visual comparison was made through confusion matrices to assess how well the models classified the data.
 
