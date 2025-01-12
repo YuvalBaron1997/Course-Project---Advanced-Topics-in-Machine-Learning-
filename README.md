@@ -20,6 +20,24 @@ This dataset focuses on assistance and expenses for families located within vari
 
 This dataset enables various analyses of assistance and expenses across different sectors. It allows for comparisons between local authorities, districts, and years, facilitating an in-depth understanding of trends and patterns in social aid distribution and its financial implications.
 
+# Data
+
+## 1. Data Cleaning and Organization
+### 1.1 Handling Missing Values
+### 1.2 Translation to English
+### 1.3 Organizing District Columns
+### 1.4 Value Transformation
+### 1.5 Handling Outliers
+
+## 2. Feature Engineering
+### 2.1 Cities: Hatzor and Ba'aneh
+
+## 3. Analysis and Conclusions
+### 3.1 Comparison of "Total" Columns with Sum of Newly Created Columns
+### 3.2 Comparison of Basket Counts with Total per Basket
+### 3.3 Standard Deviation and Mean Comparison Between Basket Columns and Total Expenditures
+
+
 ## Methodology
 
 ### Supervised Machine Learning:
