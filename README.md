@@ -1,14 +1,21 @@
-# Course-Project---Advanced-Topics-in-Machine-Learning-
-Dataset Description:
-The selected dataset focuses on assistance and expenses for families located within local authorities across the country. It includes data regarding the number of families receiving assistance in various fields and the related expenditures for each type of aid. For each family, information is provided about the types of assistance received, such as home aid, clothing, healthcare, financial debt, clubs, education, electronics, furniture, and more. Each type of assistance is represented by the number of aid baskets allocated and the total expense associated with each field.
 
-Features of the Data:
-Year: The year in which the data was recorded.
-District: The geographical district where the locality is situated.
-City: The local authority name.
-City Name: The full name of the local authority.
-Number of Families Receiving Assistance: The number of families receiving assistance in each category.
-Total Uses: The total number of uses of the aid.
-Number of Aid Baskets for Various Assistance Types: For each type of aid, the number of aid baskets allocated to the families.
-Total Expenses for Each Assistance Type: The total expenditure for each type of assistance (e.g., clothing, healthcare, furniture, transportation, etc.).
-The dataset allows for various analyses of assistance and expenses across different sectors, with a focus on comparisons between local authorities, districts, and years.
+# Course Project: Advanced Topics in Machine Learning
+
+## Dataset Description
+
+This dataset focuses on assistance and expenses for families located within various local authorities across the country. It includes data on the number of families receiving assistance in different fields and the corresponding expenditures for each type of aid. Each entry in the dataset contains information about the types of assistance received, such as home aid, clothing, healthcare, financial debt, clubs, education, electronics, furniture, and more. Each type of assistance is represented by the number of aid baskets allocated and the total associated expense.
+
+## Features of the Data
+
+- **Year**: The year in which the data was recorded.
+- **District**: The geographical district in which the locality is situated.
+- **City**: The local authority name.
+- **City Name**: The full name of the local authority.
+- **Number of Families Receiving Assistance**: The number of families receiving assistance in each category.
+- **Total Uses**: The total number of uses of the aid.
+- **Number of Aid Baskets for Various Assistance Types**: The number of aid baskets allocated to the families for each assistance type.
+- **Total Expenses for Each Assistance Type**: The total expenditure for each assistance category (e.g., clothing, healthcare, furniture, transportation, etc.).
+
+## Analysis Potential
+
+This dataset enables various analyses of assistance and expenses across different sectors. It allows for comparisons between local authorities, districts, and years, facilitating an in-depth understanding of trends and patterns in social aid distribution and its financial implications.
