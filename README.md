@@ -22,19 +22,19 @@ This dataset enables various analyses of assistance and expenses across differen
 # Data
 
 ## 1. Data Cleaning and Organization
-### 1.1 Handling Missing Values
-### 1.2 Translation to English
-### 1.3 Organizing District Columns
-### 1.4 Value Transformation
-### 1.5 Handling Outliers
+- Handling Missing Values
+- Translation to English
+- Organizing District Columns
+- Value Transformation
+- Handling Outliers
 
 ## 2. Feature Engineering
-### 2.1 Cities: Hatzor and Ba'aneh
+- 2.1 Cities: Hatzor and Ba'aneh
 
 ## 3. Analysis and Conclusions
-### 3.1 Comparison of "Total" Columns with Sum of Newly Created Columns
-### 3.2 Comparison of Basket Counts with Total per Basket
-### 3.3 Standard Deviation and Mean Comparison Between Basket Columns and Total Expenditures
+- Comparison of "Total" Columns with Sum of Newly Created Columns
+- Comparison of Basket Counts with Total per Basket
+- Standard Deviation and Mean Comparison Between Basket Columns and Total Expenditures
 
 
 ## Methodology
